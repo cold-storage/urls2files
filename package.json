@@ -1,0 +1,14 @@
+{
+  "name": "urls2files",
+  "version": "0.0.1",
+  "description": "Takes an array of URLs and writes them to files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Stein",
+  "license": "Unlicense",
+  "dependencies": {
+    "shortid": "2.2.8"
+  }
+}
